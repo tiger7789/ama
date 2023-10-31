@@ -22,8 +22,8 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
  - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
 
 ### *In French? En Français ?*
-[In English / En anglais :gb::us:](https://github.com/Naereen/ama)
-or [In French / En Français :fr:](https://github.com/Naereen/ama.fr).
+[In English / En anglais :gb::us:](https://github.com/tiger7789/ama)
+or [In French / En Français :fr:](https://github.com/tiger7789/ama.fr).
 
 ----
 
